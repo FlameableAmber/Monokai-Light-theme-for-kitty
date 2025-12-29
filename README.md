@@ -7,4 +7,4 @@ The theme using 90% opacity:
 ![2025-12-29 10:16:20](https://github.com/user-attachments/assets/6b3248e0-1f35-4dbb-bfb2-9bd45f3a03fc)
 
 # Usage 
-Put the **Monokai_Pro_Light.conf** file in your kitty folder usually located at ```/home/*YOUR_USER*/.config/kitty/``` and then add ```include Monokai_Pro_Light.conf``` as a new line in you **kitty.conf** file.
+Put the **Monokai_Light.conf** file in your kitty folder usually located at ```/home/*YOUR_USER*/.config/kitty/``` and then add ```include Monokai_Pro_Light.conf``` as a new line in you **kitty.conf** file.
